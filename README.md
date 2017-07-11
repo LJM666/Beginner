@@ -1,2 +1,3 @@
 # Beginner
-no say
+Hello World!
+I'm beginner!
